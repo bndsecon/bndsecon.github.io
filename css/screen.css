@@ -992,11 +992,13 @@ pre .chunk {
     .blog-title {
         font-size: 4rem;
         letter-spacing: -1px;
+        color:#000000;
     }
 
     .blog-description {
         font-size: 1.7rem;
         line-height: 1.5em;
+        color:#000000;
     }
 
     .post {
